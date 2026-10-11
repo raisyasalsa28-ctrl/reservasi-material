@@ -1,0 +1,6 @@
+{
+  "name": "SIM-Pusri: Reservasi Material & Inventaris Real-Time",
+  "description": "Sistem reservasi material dan inventaris terintegrasi real-time antara Departemen Pemeliharaan dan Departemen Pabrik PT Pusri Palembang dengan tracking transparan dan verifikasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
